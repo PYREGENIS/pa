@@ -1,0 +1,17 @@
+Algoritm,Kruskal
+Sursa,Destinatie,Cost
+C,F,1
+D,E,2
+F,I,2
+M,N,3
+A,B,4
+D,H,4
+K,L,5
+N,O,5
+E,F,6
+J,K,6
+L,M,7
+D,G,7
+I,L,8
+A,C,8
+Cost Total,,68
